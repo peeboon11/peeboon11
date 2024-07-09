@@ -19,6 +19,12 @@
           <li><img align="right" src="https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Tingyun_Sticker_01.png/revision/latest?cb=20230420195059" height="200">
            <b>🎲 NickName:</b>Pee</li>
           <li>
+          <li>
+           <b>TELL :</b>087-6667520</li>
+          <li>
+          <li>
+           <b>Facebook :</b>https://www.facebook.com/natthaprug.boonyaritlakana/</li>
+          <li>
           <b>🧡 Loves:</b> Anime 🔥, Games 🎮
           </li>
           <li>
