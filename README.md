@@ -68,7 +68,7 @@
     </div>
     <h2 align="center"> 📖 ~ Skills ~ 📖 </h2>
         <br>
-      <h3> Skill For Website (Font-end) </h3>
+      <h3> Skill For Website (Front-end) </h3>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
       </a>
